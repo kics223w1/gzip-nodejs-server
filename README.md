@@ -1,1 +1,6 @@
-# gzip-nodejs-server
+# How to run
+
+```bash
+node server.js
+```
+
